@@ -20,3 +20,6 @@ A curated list of terminal apps, SSH clients, and Windows/Linux tools.
 
 ### Windows Tools
 * **[PowerToys](https://github.com/microsoft/PowerToys)** - Essential Windows enhancements (similar to Mac features).
+
+### Overthewire
+* **[Overthewire](https://overthewire.org/wargames/)** - The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
